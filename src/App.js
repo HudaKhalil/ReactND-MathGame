@@ -27,7 +27,6 @@ class App extends Component {
           <button>True</button>
           <button>False</button>
           <p className="text">
-          	<Score />
             Your Score: {numCorrect}/{numQuestions}
           </p>
         </div>
